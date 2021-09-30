@@ -196,13 +196,13 @@ header .search-btn:hover {
 
 @keyframes slide {
     0% {
-        background: url("assets/img/slider/slider1.jpg") top right / cover no-repeat;
+        background: url("../img/slider/slider1.jpg") top right / cover no-repeat;
     }
     33% {
-        background: url("assets/img/slider/slider2.jpg") top right / cover no-repeat;
+        background: url("../img/slider/slider2.jpg") top right / cover no-repeat;
     }
     67% {
-        background: url("assets/img/slider/slider3.jpg") top right / cover no-repeat;
+        background: url("../img/slider/slider3.jpg") top right / cover no-repeat;
     }
 }
 
